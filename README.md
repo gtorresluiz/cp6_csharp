@@ -59,13 +59,18 @@ Os dados são armazenados **em memória (sem banco de dados)**, tornando a aplic
 ## 💡 Como Executar o Projeto
 
 - **1️⃣ Clonar o repositório**
-  ###git clone https://github.com/usuario/cp6.git
-
+ ```bash
+  git clone https://github.com/usuario/cp6.git
+```
 - **2️⃣ Acessar o diretório**
-  ###cd cp6
-
+   ```bash
+   cd cp6
+  ```
 - **3️⃣ Executar o projeto**
-  ###dotnet run
-
+  ```bash
+  dotnet run
+  ```
 - **4️⃣ Acessar no navegador**
- ###http://localhost:5000/swagger
+    ```
+    http://localhost:5000/swagger
+  ```
